@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yogeshkumarnagra
+- 👋 Hi, I’m Yogesh Kumar
 - 👀 I’m interested in Front-end Web Development
 - 🌱 I’m currently working with CoEdify Technology LLP,Noida(UP)
 - 📫 Linked-In profile- linkedin.com/in/yogesh-kumar-3a31aa21b
